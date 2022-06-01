@@ -7,7 +7,9 @@ https://www.sne-journal.org/fileadmin/user_upload_sne/benchmarks/CP/CP2-definiti
 * Build: make all
 
 * parallel implementation:
-* * usage: mpirun -np (number of processes) ./para
+  * usage: mpirun -np (number of processes) ./para
 
 * sequential implemetation:
-* * usage: ./seq
+  * usage: ./seq
+
+* plot_daten(file) -> plot the solution
